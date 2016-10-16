@@ -28,3 +28,6 @@
 
 =================================
 ######
+
+Special: Custom Missions made for the map. Custom Cap points. Radiation Zone with OP vehicles and items (only spawn here)
+         AI waring factions (controlled by Headless client on a seperate box)
