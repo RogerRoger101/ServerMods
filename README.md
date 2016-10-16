@@ -1,5 +1,5 @@
 ##Mods for the Exile Server
-=================================
+
 ######
 - ADR-97 Weapons Pack
 - Advanced Rappelling
